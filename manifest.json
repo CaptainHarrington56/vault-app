@@ -1,0 +1,18 @@
+{
+  "name": "VAULT Entertainment Tracker",
+  "short_name": "VAULT",
+  "description": "Personal entertainment project tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
